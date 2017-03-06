@@ -10,6 +10,14 @@
 
 [Android 官方资料 Android性能优化典范 - 第2季][1]
 
+[Android 官方资料 Android性能优化典范 - 第3季](http://hukai.me/android-performance-patterns-season-3/)
+
+[Android 官方资料 Android性能优化典范 - 第4季](http://hukai.me/android-performance-patterns-season-4/)
+
+[Android 官方资料 Android性能优化典范 - 第5季](http://hukai.me/android-performance-patterns-season-5/)
+
+[Android 官方资料 Android性能优化典范 - 第6季](http://hukai.me/android-performance-patterns-season-6/)
+
 [Android app 性能设计技巧][2]
 
 [Facebook的Android调试工具Stetho介绍][3]
@@ -21,9 +29,6 @@
 [Android Studio Monitor 使用指南](https://developer.android.com/studio/profile/android-monitor.html)
 
 [Google官方 详解 Android 性能优化【史诗巨著之内存篇】](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484153&idx=1&sn=eecb8a4587354b39c03fa6e1eadae0a4&chksm=eae1f7abdd967ebd36e65a03117cd6e986bc3bd642ce9506b124904ec9c5871c466437293783&mpshare=1&scene=1&srcid=1103qjWHQbN0bJ4gslH9S596#rd)
-
-[胡凯-Android性能优化典范](http://hukai.me/android-performance-patterns-season-5/)
-
 
 ##### 其中有关于如何使用 Monitor 分析内存，CPU，GPU的教程。
 
@@ -85,6 +90,7 @@
 
 [0]:http://hukai.me/android-performance-patterns/
 [1]:http://hukai.me/android-performance-patterns-season-2/
+
 [2]:http://www.onsandroid.com/2014/10/android-application-designing-for.html
 [3]:http://www.androidcn.org/topic/552fabaa8ca8a1e07687e999
 [4]:http://blog.csdn.net/sunchaoenter/article/details/7319933
