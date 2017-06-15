@@ -68,6 +68,8 @@
 ### 4.卡顿优化
 [一触即发——App启动优化最佳实践](http://blog.csdn.net/eclipsexys/article/details/53044990)
 
+[Android卡顿检测方案](http://blog.csdn.net/huxiaoqiao163/article/details/72865415)
+
 
 ### 5.性能优化综合
 
