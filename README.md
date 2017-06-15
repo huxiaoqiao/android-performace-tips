@@ -35,6 +35,8 @@
 [DDMS使用教程](https://developer.android.com/studio/profile/ddms.html)
 [TraceView 使用教程](http://bxbxbai.github.io/2014/10/25/use-trace-view/)
 
+[MAT使用](http://blog.csdn.net/huxiaoqiao163/article/details/72731017)
+
 
 ###2.View优化
 
